@@ -1,6 +1,6 @@
-# Beautiful Quotes
+# Inspirational Quotes
 
-A simple web application that suggests random quotes with the author's name. The quotes are fetched from an external API and displayed using a clean and modern design with HTML, Bootstrap, and Vanilla JavaScript.
+A simple web application that suggests random inspirational quotes with the author's name. The quotes are fetched from an external API and displayed using a clean and modern design with HTML, Bootstrap, and Vanilla JavaScript.
 
 ## Features
 
