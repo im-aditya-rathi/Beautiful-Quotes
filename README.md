@@ -27,23 +27,30 @@ A simple web application that suggests random inspirational quotes with the auth
 
 ## Screenshots
 
-* ### Default Quote
+* ### Quote 1
 <table><kbd><p align="center">
     <img src="https://github.com/im-aditya-rathi/Inspirational-Quotes-App/blob/master/screenshots/1.png" alt="Image_1"/>
 </p></kbd></table>
 
 <br>
 
-* ### Loading Quote (Fetching Quote Data Through API)
+* ### Quote 2
 <table><kbd><p align="center">
     <img src="https://github.com/im-aditya-rathi/Inspirational-Quotes-App/blob/master/screenshots/2.png" alt="Image_2"/>
 </p></kbd></table>
 
 <br>
 
-* ### New Quote fetched from API
+* ### Quote 3
 <table><kbd><p align="center">
     <img src="https://github.com/im-aditya-rathi/Inspirational-Quotes-App/blob/master/screenshots/3.png" alt="Image_3"/>
+</p></kbd></table>
+
+<br>
+
+* ### Quote 4
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Inspirational-Quotes-App/blob/master/screenshots/4.png" alt="Image_4"/>
 </p></kbd></table>
 
 <br>
